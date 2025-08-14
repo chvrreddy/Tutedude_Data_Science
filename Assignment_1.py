@@ -4,7 +4,6 @@ employees = {
     101 : {'name': 'Satya', 'age': 27, 'department': 'HR', 'salary': 50000},
     102 : {'name' : 'Ram', 'age': 30, 'department' : 'finance', 'salary' : 70000}
 }
-print(employees)
 
 #Step 2 - Define the Menu System
 def main_menu():
@@ -100,6 +99,7 @@ def search_employee():
 #Already handled in main_menu() with option 4.
 
 main_menu()
+
 
 
 
